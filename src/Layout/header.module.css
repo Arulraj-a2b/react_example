@@ -1,0 +1,13 @@
+.container {
+  margin: auto;
+  width: 200px;
+  color: rgb(35, 35, 113);
+}
+.heading {
+  text-align: justify;
+  color: #fff;
+}
+.para {
+  text-align: right;
+  color: #fff;
+}
